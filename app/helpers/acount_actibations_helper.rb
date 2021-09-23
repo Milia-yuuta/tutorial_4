@@ -1,0 +1,2 @@
+module AcountActibationsHelper
+end
